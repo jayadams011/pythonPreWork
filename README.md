@@ -1,6 +1,8 @@
 ## pythonPreWork
 prework for Python 401
 
+working through unit 1, 2 and 3... learning python basics.
+
 # Unit 3: PygLatin
 
 # Unit 4: Taking a Vacation
