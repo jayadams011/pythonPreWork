@@ -4,8 +4,12 @@ prework for Python 401
 working through unit 1, 2 and 3... learning python basics.
 
 # Unit 3: PygLatin
+worked through Unit 3.
+For Pyglatin I used .lower(), .isalpha() and .len() to split and concatenate a string to create a new string in pig latin. 
 
 # Unit 4: Taking a Vacation
+Worked through unit 4.  Learned Pythin Function fundamentals.
+Worked through "Taking a Vacation"  defined 4 functions 
 
 # Unit 5: A Day at the Supermarket
 
