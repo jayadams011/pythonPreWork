@@ -12,6 +12,15 @@ Worked through unit 4.  Learned Pythin Function fundamentals.
 Worked through "Taking a Vacation"  defined 4 functions 
 
 # Unit 5: A Day at the Supermarket
+Unit 5 first part List and dictionaries.
+worked on 
+idecies
+Lists, len, slices and list indices
+Inserting
+for loops
+Keys and dictionaries
+lists and dictionaries are mutable
+A Day at the Supermarket...
 
 # Unit 6: Student Becomes the Teacher
 
