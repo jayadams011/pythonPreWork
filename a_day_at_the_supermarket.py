@@ -22,4 +22,4 @@ def compute_bill(food):
       total += prices[item]
       stock[item] -= 1
   return total
-print compute_bill
+  print compute_bill
