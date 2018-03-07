@@ -24,7 +24,26 @@ A Day at the Supermarket...
 
 # Unit 6: Student Becomes the Teacher
 
+created three dictionaries
+use lists in dictionary
+define functions
+in func find ave
+use a if / elif / else
+use for loop
+
+
+
 # Unit 7: Battleship!
+
+worked on lists and functions.
+create an empty list. 
+populat4e empty list using function and loop
+importing randint from randint
+use raw input
+used if / else / elif
+used break
+counted turns
+finished battleship game
 
 
 
