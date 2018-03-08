@@ -45,6 +45,21 @@ used break
 counted turns
 finished battleship game
 
+# Unit 8: Loops
+setting a loop count using <
+condition 
+using and
+infinite loops
+while loops
+for loops
+string manupulation
+looping trhough lists
+looping over a dictionary
+zip function to zip lists together
+for /else loops
+
+
+
 
 
 If you don't have one already, create a repository in your Git Hub account for prework. Create or modify a branch for this repository called codecademy. Create a README.md file describing the repository and the work you're putting into it. Push to this repository your code from the following CodeCademy assignments:

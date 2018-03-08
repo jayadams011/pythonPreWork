@@ -1,11 +1,24 @@
-# Write your function below!
-def fizz_count(x):
-  count = 0
-  for x in fizz_count:
-    if x == "fizz":
-      count = count + 1
-      return count
-      print count
-      
-      
-  fizz_count(["fizz","cat","fizz"])
+n = [[1, 2, 3], [4, 5, 6, 7, 8, 9]]
+# Add your function here
+def flatten(lists):
+  results=[]
+  for number in numbers:
+    results.append(numbers)
+    return results
+
+
+
+print flatten(n)
+
+
+n = [[1, 2, 3], [4, 5, 6, 7, 8, 9]]
+# Add your function here
+
+def flatten(lists):
+  results = []
+  for numbers in lists:
+    for number in numbers:
+      results.append(number)
+  return results
+
+print flatten(n)
